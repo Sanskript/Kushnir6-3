@@ -8,7 +8,7 @@ int main()
     int a, x, y;
     cout << "Enter
     g
-     data: ";
+    data: ";
     cin >> a;
     x = (int(a) / 10) % 10;
     y = int(a) % 10;
