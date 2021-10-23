@@ -6,7 +6,9 @@ using namespace std;
 int main()
 {
     int a, x, y;
-    cout << "Enter data: ";
+    cout << "Enter
+    g
+     data: ";
     cin >> a;
     x = (int(a) / 10) % 10;
     y = int(a) % 10;
