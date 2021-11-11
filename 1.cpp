@@ -7,7 +7,7 @@ int main()
 {
     int a, x, y;
     cout << "Enter
-    g
+    g; 
     data: ";
     cin >> a;
     x = (int(a) / 10) % 10;
