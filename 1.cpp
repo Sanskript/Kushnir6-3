@@ -12,6 +12,7 @@ int main()
     cin >> a;
     x = (int(a) / 10) % 10;
     y = int(a) % 10;
+    y = int(a) % 11;
     cout << "Hello world" << endl;
 
     cout << int(a) / 100 << y << x << endl;
